@@ -1,4 +1,4 @@
-### Hi there 👾
+### Hi there! I'm Eduardo Moraes. 👾
 
 <!--
 **eddev3loper/eddev3loper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
